@@ -110,7 +110,7 @@ public class Main {
         }
             // Hämta uträkning
 
-            System.out.println("Ange resultat i sekunder på " + names[0] + " på 100m");
+            System.out.println("Ange resultat i sekunder på  " + names[0] + " på 100m");
             double result=scan.nextDouble();
             DecaCount ScoreDeca = new DecaCount();
             Scorecard[2][1]=String.valueOf(result);
